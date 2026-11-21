@@ -74,3 +74,9 @@ Academic interests include Civil and Environmental Engineering, Air Pollution As
 ---
 
 *Engineering knowledge for a sustainable future.*
+
+---
+
+## Presentation Index
+
+The following PowerPoint presentations are available for academic and educational use.
